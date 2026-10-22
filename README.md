@@ -40,4 +40,4 @@ While working on this project, I practised cleaning and analyzing data with Pyth
 ## Tableau Dashboard
 
 View the interactive dashboard here:
-[Retail Revenue Leak Detector Dashboard](https://public.tableau.com/app/profile/navami.vishwanath/viz/RetailRevenueLeakDetector/RevenueLeakDashboard)
+[Retail Revenue Leak Detector Dashboard](https://public.tableau.com/app/profile/navami.vishwanath/viz/RetailRevenueLeakDetector/RevenueLeakDashboard?publish=yes)
